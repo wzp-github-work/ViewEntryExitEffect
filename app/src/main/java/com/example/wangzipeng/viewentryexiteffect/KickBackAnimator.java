@@ -18,6 +18,7 @@ public class KickBackAnimator implements TypeEvaluator<Float> {
         float d = mDuration;
         float result = calculate(t, c, b, d);
         return result;
+
     }
 
     public Float calculate(float t, float c, float b, float d) {

@@ -22,7 +22,7 @@
         <ImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:src="@mipmap/mine_source" />
+            android:src="@mipmap/source" />
 
         <TextView
             android:textSize="15sp"
@@ -48,7 +48,7 @@
         <ImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:src="@mipmap/mine_source" />
+            android:src="@mipmap/source" />
 
         <TextView
             android:textSize="15sp"
@@ -73,7 +73,7 @@
         <ImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:src="@mipmap/mine_source" />
+            android:src="@mipmap/source" />
 
         <TextView
             android:textSize="15sp"
@@ -82,6 +82,7 @@
             android:layout_marginTop="10dp"
             android:text="视频"
             android:textColor="#000000" />
+
     </LinearLayout>
 
 
@@ -100,7 +101,7 @@
         <ImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:src="@mipmap/mine_source" />
+            android:src="@mipmap/source" />
 
         <TextView
             android:textSize="15sp"

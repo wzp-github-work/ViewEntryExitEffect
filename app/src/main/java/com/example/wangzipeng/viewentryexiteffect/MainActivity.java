@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
                     fadeAnim.addListener(new Animator.AnimatorListener() {
                         @Override
                         public void onAnimationStart(Animator animation) {
-
                         }
 
                         @Override
@@ -110,12 +109,10 @@ public class MainActivity extends AppCompatActivity {
 
                         @Override
                         public void onAnimationCancel(Animator animation) {
-
                         }
 
                         @Override
                         public void onAnimationRepeat(Animator animation) {
-
                         }
                     });
                 }
